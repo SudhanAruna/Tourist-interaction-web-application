@@ -1,0 +1,102 @@
+.images-in-slide {
+  width: 100%;
+  height: auto; }
+  body {
+    /* background-image: url(bg3.jpg); */
+    background-size: 100%; }
+
+/*# sourceMappingURL=index-css.css.map */
+.pageDiv {
+  height: 800px;
+  width: auto; }
+
+
+  .container {
+    position: relative;
+  }
+
+  .text-image-container {
+      font-family: "Raleway", sans-serif;
+    position: absolute;
+    width: 65%;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    top: 15%;
+    left: 10%;
+  }
+  .text1{
+    /* position: absolute;
+  top: 50%;
+  left: 50%; */
+
+  }
+
+
+.tourist-signup-btn{
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  border:white;
+  decoration:none;
+  background: none;
+  color: white;
+  size:auto;
+  border-radius: 12px;
+  padding: 2%;
+  margin-top: 10%;
+  text-decoration: none;
+}
+.tourist-signup-btn:hover{
+  margin-left: 2%;
+  color:black ;
+  background-color: white;
+  box-shadow: 2px 4px 8px 2px rgba(0,0,0,0.2);
+  cursor: pointer;
+  transition: 0.9s;
+
+}
+.main-btn-container{
+  margin-top: 2%;
+}
+
+ h1{
+  font-size: 46px;
+
+}
+ p{
+  font-size: 20px;
+}
+#container {
+  margin: 50px 0 0 0;
+  text-align: center;
+  /* font-family: "Raleway", sans-serif; */
+ /* position: absolute; */
+/* bottom: 20px;
+right: 20px; */
+/* background-color:rgba(0, 0, 0, 0.92); */
+/* color: black;
+padding-left: 20px;
+padding-right: 20px;
+top: 40%;
+left: 10%; */
+}
+
+
+#text {
+  display: inline-block;
+  color: black;
+  border-right: 3px solid #aed9f5;
+ }
+/*.text-block {
+    position: absolute;
+    top: 10%;
+    right: 20%;
+    background-color: none;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.text-block h2{
+  color:black;
+} */

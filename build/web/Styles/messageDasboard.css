@@ -1,0 +1,149 @@
+body {
+  /* background-image: url(bg3.jpg); */
+  background-size: cover; }
+
+img {
+  border-radius: 15px; }
+
+
+  .pageDiv {
+    height: 800px;
+    width: auto; }
+
+.msg-form {
+  border: 2px solid #145D7A;
+  padding: 0.5%;
+  border-radius: 8px;
+  background-color: white;
+  width: 70%; }
+
+.firstDiv {
+  background-color: none;
+  height: 50%;
+  background-size: 100% 100%;
+  font-family: "Ubuntu", "sans-serif";
+  text-align: center;
+  width: 12%;
+  float: left;
+  margin-left: 1%;
+  margin-top: 5%;
+  border-radius: 16px;
+  padding: 2%; }
+
+.secondDiv {
+  margin-top: 0.1%;
+  font-family: "Ubuntu", "sans-serif";
+  padding: 2%;
+  text-align: left;
+  float: left;
+  width: 50%;
+  height: 90%;
+  /*margin-left: %;*/
+  background-color: rgba(215, 231, 244, 0.5);
+  border-radius: 15px; }
+
+.thirdDiv {
+  border-radius: 8px;
+  padding: 2%;
+  background-color: rgba(19, 57, 83, 0.83);
+  height: 60%;
+  float: right;
+  width: 15%;
+  margin-right: 2%;
+  margin-top: 3%;
+  margin-bottom: 2%; }
+
+  .dash-menu-content{
+        font-family: 'Raleway', sans-serif;
+        font-size: 22px;
+        font-weight: bold;
+        border:none;
+        decoration:none;
+        background: none;
+        color: black;
+        size:auto;
+        border-radius: 12px;
+        padding: 3%;
+        margin-top: 5%;
+        transition:0.8s;
+      }
+
+      #scrolLparent{
+        overflow: hidden;
+      }
+      .dash-menu-content:hover{
+        font-weight: bold;
+        color: white;
+        background-color: #264C72;
+        box-shadow: 2px 4px 8px 2px rgba(0,0,0,0.2);
+        cursor: pointer;
+      }
+
+.form-text-box, .form-text-box-left, .form-text-box-right {
+  border: 2px solid #145D7A;
+  padding: 2%;
+  border-radius: 8px;
+  background-color: white;
+  width: 70%; }
+
+.tble {
+  font-family: "Ubuntu", "sans-serif";
+  text-align: left;
+  position: sticky;
+  border-radius: 15px;
+  background-color: white;
+  padding: 0.5%; }
+
+.message-panel {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+
+  padding: 2%;
+  border: none;
+  decoration: none;
+  background: rgba(247, 247, 247, 0.93);
+  color: rgba(0, 106, 148, 0.8);
+  size: auto;
+  border-radius: 12px;
+  font-weight: bold; }
+
+  .contact-btn{
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight:bold;
+    margin-top:5%;
+    padding:3%;
+    border-radius:11px;
+    border:none;
+    background:none;
+    background-color:rgba(215, 231, 244, 0.5);
+    color:white;
+    transition:0.7s;
+  }
+  .contact-btn:hover{
+    padding:5%;
+    color:rgba(0, 106, 148, 0.8);
+    background-color:white;
+    transition:0.9s;
+  }
+.msg-form-div button{
+  font-family: 'Raleway', sans-serif;
+   font-size: 16px;
+  font-weight:bold;
+  background:none;
+  border:none;
+  border-radius:12px;
+  padding:0.7%;
+/*   background-color:white; */
+  color:rgba(0, 106, 148, 0.8);
+}
+.eventBookingRow{
+  color:rgba(19, 57, 83, 0.83);
+  background-color: white;
+
+}
+.eventBookingRow td{
+  padding:2%;
+}
+
+/*# sourceMappingURL=messageDasboard.css.map */
